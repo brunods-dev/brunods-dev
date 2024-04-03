@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Qsaude's App 🚀**<br><br>
 - 📫 How to reach me **brunods.dev@gmail.com**<br><br>
 - 🌱 I’m currently learning **Swift, SwiftUI, GO & Rust.**<br><br>
-- 💬 Ask me about **TS, JS, React Native ( all about it 🥰), ReactJS, NodeJS.**<br><br>
+- 💬 Ask me about **TS, JS, React Native, ReactJS, NodeJS.**<br><br>
 <!-- - ⚡ Fun fact **☭ I`m a RPDC's Necromancer 🧙‍♂️🇰🇵** -->
 
 <br><br>
