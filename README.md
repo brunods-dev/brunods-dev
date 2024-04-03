@@ -1,7 +1,7 @@
 <div align="center">
  <img style="border-radius:16px" src="https://brunods.dev/img/TlHM.gif">
 </div>
-<h1 align="center">Hey yo ✌️, I'm Bruno Dias 🧙‍♂️</h1>
+<h1 align="center">Hey ✌️, I'm Bruno Dias 🧙‍♂️</h1>
 <h3 align="center">A Full Stack Software Engineer from São Paulo, Brazil 🇧🇷</h3>
 
 <img align="right" alt="Coding"  height="250"  style="border-radius:16px" src="https://brunods.dev/img/profile.GIF">
@@ -16,7 +16,8 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-sousa-58565a13a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brunods_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-sousa-58565a13a) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brunods_dev) -->
 
 <br><br>
 
