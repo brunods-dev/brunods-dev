@@ -1,16 +1,13 @@
 <div align="center">
  <img style="border-radius:16px" src="https://brunods.dev/img/TlHM.gif">
 </div>
-<h1 align="center">Hey ✌️, I'm Bruno Dias 🧙‍♂️</h1>
-<h3 align="center">A Full Stack Software Engineer from São Paulo, Brazil 🇧🇷</h3>
+<h1 align="center">Hey ✌️, I'm Bruno Sousa 🧙‍♂️</h1>
+<h3 align="center">A Cloud Solution Engineer | Tech Lead | Software Engineer ( Java, TS, NodeJS, ReactJS, React Native ) from São Paulo, Brazil 🇧🇷</h3>
 
 <img align="right" alt="Coding"  height="250"  style="border-radius:16px" src="https://brunods.dev/img/profile.GIF">
 
-- 🔭 I’m currently working on **Dr.Consulta's App 🚀**<br><br>
+- 🔭 I’m currently working on **Oracle 🚀**<br><br>
 - 📫 How to reach me **brunods.dev@gmail.com**<br><br>
-- 🌱 I’m currently learning **Swift, SwiftUI, GO & Rust.**<br><br>
-- 💬 Ask me about **TS, JS, React Native, ReactJS, NodeJS.**<br><br>
-<!-- - ⚡ Fun fact **☭ I`m a RPDC's Necromancer 🧙‍♂️🇰🇵** -->
 
 <br><br>
 
