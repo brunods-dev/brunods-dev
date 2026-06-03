@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding"  height="250"  style="border-radius:16px" src="https://brunods.dev/img/profile.GIF">
 
-## 🔭 I’m currently working at **Oracle 🚀
+## 🔭 I’m currently working at Oracle 🚀
 
 ## 📫 How to reach me 
 - [![Mail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:brunods.dev@gmail.com) 
